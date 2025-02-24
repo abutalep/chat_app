@@ -1,0 +1,5 @@
+class AppRoute {
+  static const String loginPage = "LoginPage";
+  static const String registerPage = "RegisterPage";
+  static const String chatPage = "ChatPage";
+}
